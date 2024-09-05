@@ -1,0 +1,69 @@
+.background {
+   position: absolute;
+}
+
+.background-putih {
+   background-color: whitesmoke;
+   width: 100%;
+   height: 735px;
+}
+
+.flip {
+   padding: 20px;
+   margin: -25%;
+   width: 40%;
+   display: flex;
+   margin-left: 55%;
+}
+
+.textAwal h3{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 40px;
+   font-weight: bold;
+   text-align: left;
+   padding-top: 20%;
+}
+
+.text {
+   align-items: center;
+   text-align: center;
+}
+
+.text h3 {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 30px;
+   color: white;
+   padding-top: 70px;
+   margin: 0px;
+}
+
+.text h6 {
+   color: white;
+   line-height: 0px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 15px;
+}
+
+.btn1 {
+   text-align: center;
+   border: 1px;
+   background-color: white;
+   border-radius: 40px;
+   padding: 15px 25px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn1:hover {
+   color: rgb(255, 103, 42);
+}
+
+.background-orange {
+   width: 100%;
+   height: 735px;
+   background-color: #fd6542;
+}
+
+.img {
+   margin: 120px;
+}
+
